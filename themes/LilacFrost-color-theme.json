@@ -1,0 +1,112 @@
+{
+	"name": "Seafrost Final Calm",
+	"type": "light",
+	"colors": {
+		"editor.background": "#F5F2F7",
+		"editor.foreground": "#2C2C2C",
+		"editorCursor.foreground": "#5A4E8F",
+		"editor.selectionBackground": "#D7CBEF",
+		"editor.inactiveSelectionBackground": "#E6DCF3",
+		"editor.lineHighlightBackground": "#EFEAF4",
+		"editorLineNumber.foreground": "#A8A2B0",
+		"editorLineNumber.activeForeground": "#6B5996",
+		"sideBar.background": "#F6F3F9",
+		"sideBar.foreground": "#4D4A55",
+		"activityBar.background": "#F3EFF7",
+		"activityBar.foreground": "#6B5996",
+		"statusBar.background": "#EBE5F1",
+		"statusBar.foreground": "#453E5C",
+		"titleBar.activeBackground": "#F2EDF6",
+		"titleBar.activeForeground": "#2C2C2C",
+		"tab.activeBackground": "#F5F2F7",
+		"tab.inactiveBackground": "#ECE8F1",
+		"tab.activeForeground": "#6B5996",
+		"tab.inactiveForeground": "#9C94A7",
+		"terminal.background": "#F5F2F7",
+		"terminal.foreground": "#2C2C2C",
+		"panel.background": "#F5F2F7"
+	},
+	"tokenColors": [
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#A25BAE",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#2A9D8F"
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#4C6781"
+			}
+		},
+		{
+			"scope": "function",
+			"settings": {
+				"foreground": "#3977B3"
+			}
+		},
+		{
+			"scope": "type",
+			"settings": {
+				"foreground": "#CD5E92"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#9B9CA4",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "number",
+			"settings": {
+				"foreground": "#EA728C"
+			}
+		},
+		{
+			"scope": "operator",
+			"settings": {
+				"foreground": "#B56CA6"
+			}
+		},
+		{
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#B7AFC2"
+			}
+		},
+		{
+			"scope": "constant",
+			"settings": {
+				"foreground": "#7C59A4"
+			}
+		},
+		{
+			"scope": "storage",
+			"settings": {
+				"foreground": "#A25BAE",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#6657A0"
+			}
+		},
+		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#3977B3"
+			}
+		}
+	]
+}
