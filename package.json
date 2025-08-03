@@ -40,6 +40,17 @@
       }
     ]
   },
+  "galleryBanner": {
+    "color": "#f4f1f6",
+    "theme": "light"
+  },
+  "assets": {
+    "screenshot": "screenshots/BlushDrift.png",
+    "screenshot1": "screenshots/LilacDream.png",
+    "screenshot2": "screenshots/LilacFrost.png",
+    "screenshot3": "screenshots/PetalWhisper.png",
+    "screenshot4": "screenshots/Roseveil.png"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sudeepbatra/pastelight-themes"
