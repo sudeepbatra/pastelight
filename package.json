@@ -1,15 +1,30 @@
 {
   "name": "pastelight-themes",
-  "displayName": "Pastelight Themes",
-  "description": "A collection of soothing, pastel-toned light themes for VS Code, including Blush Drift, Roseveil, Lilac Dream, Petal Whisper, and more.",
+  "displayName": "PastelLight Themes",
+  "description": "Soft and elegant pastel light themes for Visual Studio Code. Ideal for minimalists, frontend devs, and anyone who prefers soothing syntax highlighting with aesthetic code palettes.",
   "publisher": "stoxfi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.87.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "vscode light theme",
+    "pastel theme",
+    "pastel vscode",
+    "calm code",
+    "elegant syntax",
+    "soft syntax highlighting",
+    "minimalist theme",
+    "developer aesthetic",
+    "light color theme",
+    "rosy theme",
+    "frontend design",
+    "pretty themes",
+    "vscode ui theme"
   ],
   "contributes": {
     "themes": [
