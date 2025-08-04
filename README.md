@@ -18,19 +18,19 @@ Crafted to evoke clarity, warmth, and visual comfort — perfect for developers 
 ## 📸 Preview
 
 🌸 **Blush Drift**
-![Blush Drift Screenshot](screenshots/BlushDrift.png)  
+![Blush Drift Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/BlushDrift.png)  
 
 🌷 **Lilac Dream**
-![Lilac Dream Screenshot](screenshots/LilacDream.png)  
+![Lilac Dream Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/LilacDream.png)  
 
 ❄️ **Lilac Frost**
-![Lilac Frost Screenshot](screenshots/LilacFrost.png)  
+![Lilac Frost Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/LilacFrost.png)  
 
 🌿 **Petal Whisper**
-![Petal Whisper Screenshot](screenshots/PetalWhisper.png)  
+![Petal Whisper Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/PetalWhisper.png)  
 
 🌹 **Roseveil**
-![Roseveil Screenshot](screenshots/Roseveil.png)
+![Roseveil Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/Roseveil.png)
 
 ---
 
