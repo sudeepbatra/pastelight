@@ -1,9 +1,9 @@
 {
   "name": "pastelight-themes",
   "displayName": "Pastelight Themes",
-  "description": "A collection of soothing, pastel-toned light themes for VS Code, including Blush Drift, Roseveil, Lilac Dream, Petal Whisper, and Lilac Frost.",
+  "description": "A collection of soothing, pastel-toned light themes for VS Code, including Blush Drift, Roseveil, Lilac Dream, Petal Whisper, and more.",
   "publisher": "stoxfi",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.87.0"
@@ -37,6 +37,16 @@
         "label": "Roseveil",
         "uiTheme": "vs",
         "path": "./themes/Roseveil-color-theme.json"
+      },
+      {
+        "label": "Canvas Blush",
+        "uiTheme": "vs",
+        "path": "./themes/CanvasBlush-color-theme.json"
+      },
+      {
+        "label": "Petal Mist",
+        "uiTheme": "vs",
+        "path": "./themes/PetalMist-color-theme.json"
       }
     ]
   },
@@ -49,7 +59,9 @@
     "screenshot1": "screenshots/LilacDream.png",
     "screenshot2": "screenshots/LilacFrost.png",
     "screenshot3": "screenshots/PetalWhisper.png",
-    "screenshot4": "screenshots/Roseveil.png"
+    "screenshot4": "screenshots/Roseveil.png",
+    "screenshot5": "screenshots/CanvasBlush.png",
+    "screenshot6": "screenshots/PetalMist.png"
   },
   "repository": {
     "type": "git",
