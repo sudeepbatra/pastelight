@@ -1,7 +1,11 @@
 # PastelLight — Soft & Elegant Light Themes for VS Code ✨
 
-A collection of calming, pastel-toned light themes for Visual Studio Code.  
-Crafted to evoke clarity, warmth, and visual comfort — perfect for developers who prefer elegant light themes over harsh contrasts.
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/stoxfi.pastelight-themes?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=stoxfi.pastelight-themes)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/stoxfi.pastelight-themes?color=blue&label=Downloads)](https://marketplace.visualstudio.com/items?itemName=stoxfi.pastelight-themes)
+[![GitHub Stars](https://img.shields.io/github/stars/sudeepbatra/pastelight-themes?style=social)](https://github.com/sudeepbatra/pastelight-themes)
+
+> A soothing collection of **pastel light themes for Visual Studio Code**, crafted for developers who value **clarity, elegance, and eye comfort**.  
+Perfect for long hours of coding, content creation, writing, or UI design.
 
 ---
 
@@ -12,62 +16,112 @@ Crafted to evoke clarity, warmth, and visual comfort — perfect for developers 
 - ❄️ **Lilac Frost** – Cool lilac tones with frosty freshness.
 - 🌿 **Petal Whisper** – Subtle floral tones with light greens and blushes.
 - 🌹 **Roseveil** – Romantic rose hues with a refined contrast.
+- 🪷 **Canvas Blush** – Balanced pastels with natural warmth.
+- 💧 **Petal Mist** – Lavender-pink tones with airy clarity.
 
 ---
 
-## 📸 Preview
+## 📸 Theme Preview Gallery
 
-🌸 **Blush Drift**
-![Blush Drift Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/BlushDrift.png)  
+🌸 **Blush Drift**  
+![Blush Drift Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/BlushDrift.png)
 
-🌷 **Lilac Dream**
-![Lilac Dream Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/LilacDream.png)  
+🌷 **Lilac Dream**  
+![Lilac Dream Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/LilacDream.png)
 
-❄️ **Lilac Frost**
-![Lilac Frost Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/LilacFrost.png)  
+❄️ **Lilac Frost**  
+![Lilac Frost Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/LilacFrost.png)
 
-🌿 **Petal Whisper**
-![Petal Whisper Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/PetalWhisper.png)  
+🌿 **Petal Whisper**  
+![Petal Whisper Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalWhisper.png)
 
-🌹 **Roseveil**
-![Roseveil Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/refs/heads/main/screenshots/Roseveil.png)
+🌹 **Roseveil**  
+![Roseveil Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/Roseveil.png)
 
----
+🪷 **Canvas Blush**  
+![Canvas Blush Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/CanvasBlush.png)
 
-## 🗂 What's in the folder
-
-- `package.json` – Manifest file defining theme metadata and paths.
-- `themes/*.json` – The color theme definition files.
-- `icons/icon.png` – Extension icon.
-- `screenshots/` – Theme preview images.
+💧 **Petal Mist**  
+![Petal Mist Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalMist.png)
 
 ---
 
-## 🚀 Get up and running
+## 🧘‍♀️ Why Choose PastelLight?
 
-- Press `F5` to open a new VS Code window with your theme extension loaded.
-- Open `File > Preferences > Color Themes` and pick your favorite from the PastelLight collection.
-- To inspect syntax scopes, use `Inspect TM Scopes` (`Ctrl+Shift+P` or `Cmd+Shift+P`).
-
----
-
-## 🛠 Make Changes
-
-Edits to any theme JSON files will be reflected live in the Extension Development Host window when saved.
+- ✅ Made for **Visual Studio Code** with elegant light-tone UX
+- 👨‍🎨 Ideal for **frontend developers, designers, writers, and minimalists**
+- 🌿 Supports **semantic syntax highlighting** in pastel color schemes
+- 🌤️ Gentle on eyes with **low-contrast, well-balanced palettes**
+- ✨ Inspired by **Tokyo Light**, **Nord**, and **natural gradients**
 
 ---
 
-## 📦 Install your extension
+## 🚀 Installation
 
-To use it outside dev mode:
+### 📦 From the Marketplace
 
-1. Package your extension using [`vsce`](https://code.visualstudio.com/api/working-with-extensions/publishing-extension).
-2. Copy the `.vsix` file into your system or install via the Extensions sidebar in VS Code.
+1. Launch VS Code
+2. Go to Extensions sidebar (⇧⌘X / Ctrl+Shift+X)
+3. Search for: **PastelLight Themes**
+4. Click **Install** and choose your favorite!
+
+### 🛠 Manual Installation
+
+    code --install-extension pastelight-themes-1.0.3.vsix
+
+Or [download the latest `.vsix` from Releases](https://github.com/sudeepbatra/pastelight-themes/releases)
 
 ---
 
-📥 [Recommended VSCode Settings](./recommended/pastellight-recommended-settings.json)
+## 💡 Recommended VS Code Settings
+
+    {
+      "workbench.colorTheme": "Lilac Dream",
+      "editor.fontFamily": "JetBrains Mono, Fira Code, Menlo, monospace",
+      "editor.fontLigatures": true,
+      "editor.cursorBlinking": "smooth",
+      "editor.cursorSmoothCaretAnimation": true
+    }
+
+📥 [Download preset settings](./recommended/pastellight-recommended-settings.json)
 
 ---
 
-Crafted with 🩷 by [Sudeep Batra](https://github.com/sudeepbatra)
+## 🛠 Developer Setup
+
+- Press `F5` in VS Code to launch the Extension Development Host
+- Open the Command Palette → `Color Theme` to try your design
+- Use `Inspect TM Scopes` to debug syntax token colors
+
+---
+
+## 📁 Folder Structure
+
+| File / Folder       | Purpose                      |
+|---------------------|------------------------------|
+| `themes/*.json`     | Individual theme definitions |
+| `screenshots/*.png` | Theme preview images         |
+| `icons/icon.png`    | Marketplace extension icon   |
+| `package.json`      | VS Code extension config     |
+
+---
+
+## 🤝 Contribute Your Pastel Vibe
+
+Love ambient palettes or soft tones?  
+We'd love to showcase your vibe!
+
+- 🎨 **Fork this repo**
+- 🎯 **Create your `.json` theme**
+- 🔁 **Submit a PR or open an issue**
+- 🌟 **Credit will be given on all accepted themes**
+
+---
+
+## 📜 License
+
+MIT © [Sudeep Batra](https://github.com/sudeepbatra)
+
+---
+
+Crafted with 🩷 by [Sudeep Batra](https://github.com/sudeepbatra) — for lovers of light, calm, beautiful code 🕊️
