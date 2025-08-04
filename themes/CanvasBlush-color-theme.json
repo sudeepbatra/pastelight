@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Seafrost",
+	"name": "Cavas Blush Theme",
 	"type": "light",
 	"colors": {
 		"editor.background": "#FDF6F2",

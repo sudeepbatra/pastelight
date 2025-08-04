@@ -62,6 +62,16 @@
         "label": "Petal Mist",
         "uiTheme": "vs",
         "path": "./themes/PetalMist-color-theme.json"
+      },
+      {
+        "label": "Petal Mocha",
+        "uiTheme": "vs",
+        "path": "./themes/PetalMocha-color-theme.json"
+      },
+      {
+        "label": "Cloudberry Bloom",
+        "uiTheme": "vs",
+        "path": "./themes/CloudberryBloom-color-theme.json"
       }
     ]
   },
@@ -76,7 +86,9 @@
     "screenshot3": "screenshots/PetalWhisper.png",
     "screenshot4": "screenshots/Roseveil.png",
     "screenshot5": "screenshots/CanvasBlush.png",
-    "screenshot6": "screenshots/PetalMist.png"
+    "screenshot6": "screenshots/PetalMist.png",
+    "screenshot7": "screenshots/CloudberryBloom.png",
+    "screenshot8": "screenshots/PetalMocha.png"
   },
   "repository": {
     "type": "git",

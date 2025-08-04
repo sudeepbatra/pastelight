@@ -1,5 +1,5 @@
 {
-  "name": "Dreamy Light Theme",
+  "name": "Blush Drift Theme",
   "type": "light",
   "colors": {
     "editor.background": "#FDFBFD",
@@ -11,7 +11,7 @@
     "editorLineNumber.foreground": "#B2A4B8",
     "editorLineNumber.activeForeground": "#D95F76",
     "sideBar.background": "#FBF9FB",
-    "sideBar.foreground": "#5D536B",
+    "sideBar.foreground": Sakura Frost"#5D536B",
     "sideBarSectionHeader.background": "#F1EAF1",
     "activityBar.background": "#F8F5F8",
     "activityBar.foreground": "#C94F7C",

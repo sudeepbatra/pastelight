@@ -18,6 +18,8 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 - 🌹 **Roseveil** – Romantic rose hues with a refined contrast.
 - 🪷 **Canvas Blush** – Balanced pastels with natural warmth.
 - 💧 **Petal Mist** – Lavender-pink tones with airy clarity.
+- 🍓 Cloudberry Bloom – A gentle fusion of berry-pink and cloud white for a dreamy, lifted feel.
+- ☕ Petal Mocha – Warm blushes blended with soft browns, evoking calm and comfort.
 
 ---
 

@@ -1,0 +1,111 @@
+{
+    "name": "Petal Mocha Theme",
+    "type": "light",
+    "colors": {
+        "editor.background": "#FFF8F8",
+        "editor.foreground": "#4A4A4A",
+        "editor.lineHighlightBackground": "#FFEFF3",
+        "editorLineNumber.foreground": "#CCB8C2",
+        "editorCursor.foreground": "#D67AAE",
+        "editor.selectionBackground": "#FDDDE6",
+        "editor.inactiveSelectionBackground": "#FDE6ED",
+        "editorIndentGuide.background": "#F2D3DC",
+        "editorIndentGuide.activeBackground": "#E8B7C7",
+        "sideBar.background": "#F9EAEA",
+        "sideBar.foreground": "#4F3F4F",
+        "activityBar.background": "#F4D1E3",
+        "activityBar.foreground": "#4A4A4A",
+        "tab.activeBackground": "#FFF5F7",
+        "tab.inactiveBackground": "#F9EAEA",
+        "tab.activeForeground": "#4A4A4A",
+        "tab.inactiveForeground": "#AD91A4",
+        "titleBar.activeBackground": "#F4D1E3",
+        "titleBar.activeForeground": "#4A4A4A"
+    },
+    "tokenColors": [
+        {
+            "scope": [
+                "keyword"
+            ],
+            "settings": {
+                "foreground": "#DB4F8E",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": [
+                "string"
+            ],
+            "settings": {
+                "foreground": "#00797C"
+            }
+        },
+        {
+            "scope": [
+                "variable",
+                "meta.definition.variable.name"
+            ],
+            "settings": {
+                "foreground": "#5C4C61"
+            }
+        },
+        {
+            "scope": [
+                "constant.numeric"
+            ],
+            "settings": {
+                "foreground": "#7555CC"
+            }
+        },
+        {
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "foreground": "#BBAABB",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.function"
+            ],
+            "settings": {
+                "foreground": "#D67AAE"
+            }
+        },
+        {
+            "scope": [
+                "storage.type"
+            ],
+            "settings": {
+                "foreground": "#8A5E8A"
+            }
+        },
+        {
+            "scope": [
+                "entity.name.type"
+            ],
+            "settings": {
+                "foreground": "#6F86C3"
+            }
+        },
+        {
+            "scope": [
+                "support.type"
+            ],
+            "settings": {
+                "foreground": "#4086A0"
+            }
+        },
+        {
+            "scope": [
+                "invalid"
+            ],
+            "settings": {
+                "foreground": "#ffffff",
+                "background": "#ff4f4f"
+            }
+        }
+    ]
+}

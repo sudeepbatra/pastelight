@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Seafrost Theme",
+	"name": "Petal Mist Theme",
 	"type": "light",
 	"colors": {
 		"editor.background": "#FAF4F2",
