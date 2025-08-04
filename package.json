@@ -3,7 +3,7 @@
   "displayName": "PastelLight Themes",
   "description": "Soft and elegant pastel light themes for Visual Studio Code. Ideal for minimalists, frontend devs, and anyone who prefers soothing syntax highlighting with aesthetic code palettes.",
   "publisher": "stoxfi",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.87.0"

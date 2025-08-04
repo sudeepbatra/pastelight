@@ -18,8 +18,8 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 - 🌹 **Roseveil** – Romantic rose hues with a refined contrast.
 - 🪷 **Canvas Blush** – Balanced pastels with natural warmth.
 - 💧 **Petal Mist** – Lavender-pink tones with airy clarity.
-- 🍓 Cloudberry Bloom – A gentle fusion of berry-pink and cloud white for a dreamy, lifted feel.
-- ☕ Petal Mocha – Warm blushes blended with soft browns, evoking calm and comfort.
+- 🍓 **Cloudberry Bloom** – A gentle fusion of berry-pink and cloud white for a dreamy, lifted feel.
+- ☕ **Petal Mocha** – Warm blushes blended with soft browns, evoking calm and comfort.
 
 ---
 
@@ -45,6 +45,14 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 
 💧 **Petal Mist**  
 ![Petal Mist Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalMist.png)
+
+🍓 **Cloudberry Bloom**
+![Cloudberry Bloom Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/CloudberryBloom.png)
+
+
+☕ **Petal Mocha**
+![Petal Mocha Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalMocha.png)
+
 
 ---
 
@@ -127,3 +135,12 @@ MIT © [Sudeep Batra](https://github.com/sudeepbatra)
 ---
 
 Crafted with 🩷 by [Sudeep Batra](https://github.com/sudeepbatra) — for lovers of light, calm, beautiful code 🕊️
+
+
+⭐️ Enjoying PastelLight?
+If PastelLight brings clarity, calm, or joy to your coding sessions,
+please consider leaving a ⭐️ rating on the VS Code Marketplace!
+
+Your support helps us grow and share more beautiful themes 💖
+
+🌟 Rate & Review on Marketplace »
