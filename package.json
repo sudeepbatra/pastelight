@@ -3,7 +3,7 @@
   "displayName": "PastelLight Themes",
   "description": "Soft and elegant pastel light themes for Visual Studio Code. Ideal for minimalists, frontend devs, and anyone who prefers soothing syntax highlighting with aesthetic code palettes.",
   "publisher": "stoxfi",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.87.0"
@@ -29,52 +29,57 @@
   "contributes": {
     "themes": [
       {
-        "label": "Blush Drift",
+        "label": "Linen Mist - Pastelight Themes",
+        "uiTheme": "vs",
+        "path": "./themes/LinenMist-color-theme.json"
+      },
+      {
+        "label": "Blush Drift - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/BlushDrift-color-theme.json"
       },
       {
-        "label": "Lilac Dream",
+        "label": "Lilac Dream - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/LilacDream-color-theme.json"
       },
       {
-        "label": "Lilac Frost",
+        "label": "Lilac Frost - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/LilacFrost-color-theme.json"
       },
       {
-        "label": "Petal Whisper",
+        "label": "Petal Whisper - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/PetalWhisper-color-theme.json"
       },
       {
-        "label": "Roseveil",
+        "label": "Roseveil - Pastelight Themes",
         "uiTheme": "vs",
-        "path": ">./themes/Roseveil-color-theme.json"
+        "path": "./themes/Roseveil-color-theme.json"
       },
       {
-        "label": "Canvas Blush",
+        "label": "Canvas Blush - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/CanvasBlush-color-theme.json"
       },
       {
-        "label": "Petal Mist",
+        "label": "Petal Mist - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/PetalMist-color-theme.json"
       },
       {
-        "label": "Petal Mocha",
+        "label": "Petal Mocha - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/PetalMocha-color-theme.json"
       },
       {
-        "label": "Cloudberry Bloom",
+        "label": "Cloudberry Bloom - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/CloudberryBloom-color-theme.json"
       },
       {
-        "label": "Gelato Pastello",
+        "label": "Gelato Pastello - Pastelight Themes",
         "uiTheme": "vs",
         "path": "./themes/GelatoPastello-color-theme.json"
       }
@@ -93,7 +98,8 @@
     "screenshot5": "screenshots/CanvasBlush.png",
     "screenshot6": "screenshots/PetalMist.png",
     "screenshot7": "screenshots/CloudberryBloom.png",
-    "screenshot8": "screenshots/PetalMocha.png"
+    "screenshot8": "screenshots/PetalMocha.png",
+    "screenshot9": "screenshots/LinenMist.png"
   },
   "repository": {
     "type": "git",

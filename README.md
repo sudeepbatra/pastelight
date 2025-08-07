@@ -21,6 +21,7 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 - 🍓 **Cloudberry Bloom** – A gentle fusion of berry-pink and cloud white for a dreamy, lifted feel.
 - ☕ **Petal Mocha** – Warm blushes blended with soft browns, evoking calm and comfort.
 - 🍨 **Gelato Pastello** – Creamy, playful pastels inspired by Italian gelato.
+- 🌫️ **Linen Mist** – Whisper-soft greens and airy beiges, like morning light filtering through linen curtains — serene, subtle, and effortlessly elegant.
 
 ---
 
@@ -55,6 +56,9 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 
 ☕ **Petal Mocha**
 ![Petal Mocha Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalMocha.png)
+
+🌫️ **Linen Mist**
+![Linen Mist Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/LinenMist.png)
 
 
 ---
