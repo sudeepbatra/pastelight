@@ -20,10 +20,15 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 - 💧 **Petal Mist** – Lavender-pink tones with airy clarity.
 - 🍓 **Cloudberry Bloom** – A gentle fusion of berry-pink and cloud white for a dreamy, lifted feel.
 - ☕ **Petal Mocha** – Warm blushes blended with soft browns, evoking calm and comfort.
+- 🍨 **Gelato Pastello** – Creamy, playful pastels inspired by Italian gelato.
 
 ---
 
 ## 📸 Theme Preview Gallery
+
+🌸 **Gelato Pastello**  
+![Gelato Pastello Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/GelatoPastello.png)
+
 
 🌸 **Blush Drift**  
 ![Blush Drift Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/BlushDrift.png)

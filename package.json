@@ -3,7 +3,7 @@
   "displayName": "PastelLight Themes",
   "description": "Soft and elegant pastel light themes for Visual Studio Code. Ideal for minimalists, frontend devs, and anyone who prefers soothing syntax highlighting with aesthetic code palettes.",
   "publisher": "stoxfi",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "icon": "icons/icon.png",
   "engines": {
     "vscode": "^1.87.0"
@@ -51,7 +51,7 @@
       {
         "label": "Roseveil",
         "uiTheme": "vs",
-        "path": "./themes/Roseveil-color-theme.json"
+        "path": ">./themes/Roseveil-color-theme.json"
       },
       {
         "label": "Canvas Blush",
@@ -72,6 +72,11 @@
         "label": "Cloudberry Bloom",
         "uiTheme": "vs",
         "path": "./themes/CloudberryBloom-color-theme.json"
+      },
+      {
+        "label": "Gelato Pastello",
+        "uiTheme": "vs",
+        "path": "./themes/GelatoPastello-color-theme.json"
       }
     ]
   },
