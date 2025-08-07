@@ -1,4 +1,4 @@
-# PastelLight — Soft & Elegant Light Themes for VS Code ✨
+# Pastelight — Elegant Pastel Themes for VS Code 🌸
 
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/stoxfi.pastelight-themes?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=stoxfi.pastelight-themes)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/stoxfi.pastelight-themes?color=blue&label=Downloads)](https://marketplace.visualstudio.com/items?itemName=stoxfi.pastelight-themes)
