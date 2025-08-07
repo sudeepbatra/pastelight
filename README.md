@@ -26,21 +26,20 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 
 ## 📸 Theme Preview Gallery
 
+🌷 **Lilac Dream**  
+![Lilac Dream Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/LilacDream.png)
+
+🌿 **Petal Whisper**  
+![Petal Whisper Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalWhisper.png)
+
 🌸 **Gelato Pastello**  
 ![Gelato Pastello Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/GelatoPastello.png)
-
 
 🌸 **Blush Drift**  
 ![Blush Drift Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/BlushDrift.png)
 
-🌷 **Lilac Dream**  
-![Lilac Dream Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/LilacDream.png)
-
 ❄️ **Lilac Frost**  
 ![Lilac Frost Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/LilacFrost.png)
-
-🌿 **Petal Whisper**  
-![Petal Whisper Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalWhisper.png)
 
 🌹 **Roseveil**  
 ![Roseveil Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/Roseveil.png)
@@ -53,7 +52,6 @@ Perfect for long hours of coding, content creation, writing, or UI design.
 
 🍓 **Cloudberry Bloom**
 ![Cloudberry Bloom Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/CloudberryBloom.png)
-
 
 ☕ **Petal Mocha**
 ![Petal Mocha Screenshot](https://raw.githubusercontent.com/sudeepbatra/pastelight/main/screenshots/PetalMocha.png)
